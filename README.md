@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @channingko-madden
-- 👀 I’m interested in agriculture, robotics, rock climbing, and film photography
-- 🌱 I’m currently learning Lua and always working to improve my C++ knowledge
-- 💞️ I’m looking to collaborate on a fun open source project
-- 📫 How to reach me: channingkomadden@gmail.com
+- 👀 Some things I'm interested in - agriculture, robotics, rock climbing, cooking, and film photography
+- 🌱 I’m currently focused on learning Go, HTMX, and improving my backend skills
+- 📫 How to reach me: channingkomadden@gmail.com or www.linkedin.com/in/channing-ko-madden
 
 <!---
 channingko-madden/channingko-madden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
