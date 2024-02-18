@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @channingko-madden
 - 👀 Some things I'm interested in - agriculture, robotics, rock climbing, cooking, and film photography
-- 🌱 I’m currently focused on learning Go, HTMX, and improving my backend skills
+- 🌱 I’m currently focused on learning Go + HTMX, and improving my backend skills
 - 📫 How to reach me: channingkomadden@gmail.com or www.linkedin.com/in/channing-ko-madden
 
 <!---
